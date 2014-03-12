@@ -1,19 +1,91 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Área de Jornalismo
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+# Guilherme Peixoto da Costa Louro
+Petrópolis/RJ
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+---
+
+**Telefone:** (24) 2242-9861 / (24) 98111-6553
+
+**E-mail:** guilherme-louro@hotmail.com 
+
+**Skype:** guilherme-louro
+
+---
+
+## Objetivo
+
+Sou apaixonado por desenvolvimento. Gosto muito de aprender algo novo e tenho certeza que posso ajudar e crescer bastante dentro da empresa devido a minha vontade de aprender e gosto pelo que faço. Meu objetivo é evoluir meus conhecimentos, trabalhando ao lado de pessoas mais experientes que eu e com isso ser cada vez mais útil para as equipes. 
+
+---
+
+## Conhecimento
+
+* PHP
+* Python
+* C#
+* MySQL
+* Orientação a Objeto
+* Padrões de Projeto *(Modelo MVC)*
+* Sistema de Controle de versão *(git)*
+* HTML + CSS *(SASS / LESS)*
+* Javascript - jQuery
+* Grunt
+
+---
+
+## Conhecimento extra
+
+* AS3
+* API Redes Socias
+* Extensão para navegadores
+* Realidade Aumentada
+* WebService
+
+#### Linguagens e bibliotecas em que já trabalhei
+* Java
+* C / C++
+* OpenGL
+* AIR
+* PaperVision 3D
+* Away 3D
+
+---
+
+## Informações adicionais
+
+* Facilidade em aprender
+* Muito interesse em estar sempre aprendendo coisas novas.
+* Criatividade
+* Determinação e responsabilidade
+* Facilidade para trabalhar em grupo
+
+---
+
+## Experência Profissional
+
+* 2013/2014 - Maxsite Internet Solutions - *(Emprego Atual)*
+* 2011/2013 - Freelancer Full Time
+* 2008/2011 - Eh! Comunicação
+* 2006/2007 - DS|ONE Digital Strategy
+* 2006		- Supremma Comunicação Visual
+* 2013/2014 - SóDesign Comunicação Visual
+* 2001/2003 – Secretaria de Obras da PMP
+
+---
+
+## Formação 
+
+* **Graduação** - Sistemas de Informação pelo (IST) - *(Monografia em andamento)*
+* **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA) – *(Trancado)*
+* **Curso** - Python para Zumbis - *(Em andamento)*
+* **Curso** – Programa students to business de Desenvolvimento pela Microsoft .
+* **Curso** – Desenvolvimento em PHP pela WebRoads.
+* **Curso** – Flash Total Avançado por Luciano Augusto Treinamentos Profissionais.
+* **Curso** – Desenvolvimento Web pelo Senac.
