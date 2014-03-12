@@ -6,7 +6,7 @@ Vaga
 CV
 ==
 
-# Guilherme Peixoto da Costa Louro
+### Guilherme Peixoto da Costa Louro
 Petrópolis/RJ
 
 ---
