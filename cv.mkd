@@ -2,9 +2,9 @@ Vaga
 ====
 
 
-Área de Esporte
-Área de Jornalimo
-Produtos Globo.com
+* Área de Esporte
+* Área de Jornalimo
+* Produtos Globo.com
 
 
 # Guilherme Peixoto da Costa Louro
